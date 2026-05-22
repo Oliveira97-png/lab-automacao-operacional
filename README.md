@@ -47,3 +47,8 @@ Exportar as variáveis de ambiente antes de rodar:
 ## Dependências Python
 
     pip3 install psutil requests
+
+## Evidências
+
+### Alerta no Telegram
+![Alerta Telegram](screenshots/alerta-telegram.png)
